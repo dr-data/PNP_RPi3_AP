@@ -4,7 +4,9 @@ convert your Raspberry pi 3 into a Access Point by creating the hotspot
 First Clone the URL
 
 then install this using following command:-
+'''
 sudo ./install.sh 
+'''
 
 Now all the files will get automatically install.
 
