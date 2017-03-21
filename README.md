@@ -4,14 +4,22 @@ convert your Raspberry pi 3 into a Access Point by creating the hotspot
 First Clone the URL
 
 then install this using following command:-
-'''
+```
+sudo chmod +x install.sh
+```
+```
+sudo chmod +x ap.sh
+```
+```
 sudo ./install.sh 
-'''
+```
 
 Now all the files will get automatically install.
 
 Now test the AP by using following command:-
+```
 sudo ap <Your_SSID> <Your_PASSWORD>
+```
 
 Say For Example:-
 sudo ap PNPtutorials pnptutorials
