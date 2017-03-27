@@ -35,3 +35,12 @@ Please follow him and see the original script on his profile. You will definitel
 https://github.com/quangthanh010290
 
 I just cloned his Scripts and make some neccessary changes into the script. Show that i can make a tutorial for you guys.
+
+Trouble Shooting:
+
+missing Locate:
+```
+sudo nano .bashrc
+```
+
+export LC_ALL="en_GB.UTF-8"
